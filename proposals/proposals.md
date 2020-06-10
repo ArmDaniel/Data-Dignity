@@ -3,6 +3,8 @@
 This section aims to offer a few proposals as I thought them through using blockchain technologies.
 Should there be more ideas, I will complete this list. Anyone is welcome to participate :) Make aPR or create an issue as you see fit :)
 
+Spread the word:) [Twitter Call](https://twitter.com/Naytlin2/status/1270832207205146624)
+
 ---
 
 
