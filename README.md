@@ -24,6 +24,13 @@ showcasing a new emergent entity called a 'Data Coalition'
 * [Cellebrite hacking scandal](https://hive.blog/hive-122315/@v4vapid/cellebrite-can-hack-any-device-with-ufed-extraction-technology-or-dd18-the-wikileaks-archive) - this one is particularly intriguing , as it serves yet another example of how data is being used freely by companies to gain massive capabilities, yet the Data Producer ( us ) has nothing to gain from this.
 * [Data Freedom Act](https://www.radicalxchange.org/files/DFA.pdf) - this was one of my main sources of inspiration and many more details may be found here
 
+## Further contributions
+
+* I shall add a Microsoft Sway presentation to this soon, which offers details at length about the subject
+* Write blog posts about this to raise awareness on platforms such as Hive and DEV.TO
+* Tweet and get social with it! We need to get people informed and curious in order to promote actions towards Data Dignity :)
+
+
 ## About the author
 
 I am studying Computer Science at a Polytechnic University. I am really passionate about blockchain technologies, data privacy & value, as well as programming in all forms :) I am also a recent Gitcoin Surfer :) Awesome platform with awesome people, check it out: https://gitcoin.co/
