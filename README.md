@@ -7,6 +7,9 @@ Video explanation (Google Drive): [Link](https://drive.google.com/drive/folders/
 Let's get social with it, spread the word ! : [Twitter Post](https://twitter.com/Naytlin2/status/1270827239354044423)
 
 I got it on [YouTube](https://youtu.be/u2IJ3siO5U0) as well :)
+
+![Logo](https://github.com/Motanovici/Data-Dignity/blob/master/img/Logo.png)
+
 ## Considerations on the project
 
 * This is a project I am really happy to be working on and the fact that I managed to participate and submit my work is alone a thing
