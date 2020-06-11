@@ -20,6 +20,7 @@ showcasing a new emergent entity called a 'Data Coalition'
 
 ## Sources of information and Further Reading
 
+* [RadicalXChange Official Resources Site](https://www.radicalxchange.org/resources/#data-dignity) - one of the best sources of inspiration and getting more quality information on the subject
 * [Daily Data being produced](https://blog.microfocus.com/how-much-data-is-created-on-the-internet-each-day/)
 * [Cellebrite hacking scandal](https://hive.blog/hive-122315/@v4vapid/cellebrite-can-hack-any-device-with-ufed-extraction-technology-or-dd18-the-wikileaks-archive) - this one is particularly intriguing , as it serves yet another example of how data is being used freely by companies to gain massive capabilities, yet the Data Producer ( us ) has nothing to gain from this.
 * [Data Freedom Act](https://www.radicalxchange.org/files/DFA.pdf) - this was one of my main sources of inspiration and many more details may be found here
