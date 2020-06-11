@@ -34,4 +34,4 @@ showcasing a new emergent entity called a 'Data Coalition'
 
 ## About the author
 
-I am studying Computer Science at a Polytechnic University. I am really passionate about blockchain technologies, data privacy & value, as well as programming in all forms :) I am also a recent Gitcoin Surfer :) Awesome platform with awesome people, check it out: https://gitcoin.co/
+My name is Daniel and I am studying Computer Science at a Polytechnic University. I am really passionate about blockchain technologies, data privacy & value, as well as programming in all forms :) I am also a recent Gitcoin Surfer :) Awesome platform with awesome people, check it out: https://gitcoin.co/
